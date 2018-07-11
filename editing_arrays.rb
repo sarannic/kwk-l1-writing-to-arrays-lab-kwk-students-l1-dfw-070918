@@ -14,7 +14,7 @@ end
 
 def add_colors
  rainbow_colors = []
- rainbow_color.push "green"
- rainbow_colors.push "blue"
+ rainbow_color[3] << "green"
+ rainbow_colors[4] << "blue"
  return rainbow_colors
 end
